@@ -23,20 +23,15 @@
 - font001  
 <img src="font001/font001.png" width=200% height=200%>
 
-    [`.asm`ファイル](font001/font001.asm)
-
-    [`.til`ファイル](font001/font001.til)
+    [asmファイル](font001/font001.asm)  
+    [tilファイル](font001/font001.til)  
 
 - font002  
 <img src="font002/font002.png" width=200% height=200%>
-
-    [`.asm`ファイル](font002/font002.asm)
-
-    [`.til`ファイル](font002/font002.til)
+    [asmファイル](font002/font002.asm)  
+    [tilファイル](font002/font002.til)  
 
 - font003  
 <img src="font003/font003.png" width=200% height=200%>
-
-    [`.asm`ファイル](font003/font003.asm)
-
-    [`.til`ファイル](font003/font003.til)  
+    [asmファイル](font003/font003.asm)  
+    [tilファイル](font003/font003.til)  
