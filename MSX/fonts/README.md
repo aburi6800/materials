@@ -20,13 +20,13 @@
 
 以下のフォントデータを公開しています。  
 <br>
-- 📁[font001](./font001/)  
+- 📁[font001](./font001)  
 <img src="font001/font001.png" width=200% height=200%>  
 <br>
-- 📁[font002](./font002/)  
+- 📁[font002](./font002)  
 <img src="font002/font002.png" width=200% height=200%>  
 <br>
-- 📁[font003](./font003/)  
+- 📁[font003](./font003)  
 <img src="font003/font003.png" width=200% height=200%>  
 
 ## リリースノート
