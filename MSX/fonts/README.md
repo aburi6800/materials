@@ -19,21 +19,21 @@
 ## フォントデータ
 
 以下のフォントデータを公開しています。  
-
+<br>
 - font001  
-<img src="font001/font001.png" width=200% height=200%>
+<img src="font001/font001.png" width=200% height=200%>  
 
     - [asmファイル](font001/font001.asm)  
     - [tilファイル](font001/font001.til)  
-
+<br>
 - font002  
-<img src="font002/font002.png" width=200% height=200%>
+<img src="font002/font002.png" width=200% height=200%>  
 
     - [asmファイル](font002/font002.asm)  
     - [tilファイル](font002/font002.til)  
-
+<br>
 - font003  
-<img src="font003/font003.png" width=200% height=200%>
+<img src="font003/font003.png" width=200% height=200%>  
 
     - [asmファイル](font003/font003.asm)  
     - [tilファイル](font003/font003.til)  
