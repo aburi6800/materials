@@ -23,15 +23,22 @@
 - font001  
 <img src="font001/font001.png" width=200% height=200%>
 
-    [asmファイル](font001/font001.asm)  
-    [tilファイル](font001/font001.til)  
+    - [asmファイル](font001/font001.asm)  
+    - [tilファイル](font001/font001.til)  
 
 - font002  
 <img src="font002/font002.png" width=200% height=200%>
-    [asmファイル](font002/font002.asm)  
-    [tilファイル](font002/font002.til)  
+
+    - [asmファイル](font002/font002.asm)  
+    - [tilファイル](font002/font002.til)  
 
 - font003  
 <img src="font003/font003.png" width=200% height=200%>
-    [asmファイル](font003/font003.asm)  
-    [tilファイル](font003/font003.til)  
+
+    - [asmファイル](font003/font003.asm)  
+    - [tilファイル](font003/font003.til)  
+
+## リリースノート
+
+- 2023/05/03
+    - font001,font002,font003公開
