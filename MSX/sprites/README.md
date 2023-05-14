@@ -13,24 +13,49 @@ MSX1用スプライトパターンデータです。
 
 - BASICソース (`.bas`)  
     [TnySprite](http://msx.jannone.org/tinysprite/tinysprite.html)でData形式で出力したものです。  
-    TinySpriteは、[こちら](http://msx.jannone.org/tinysprite/tinysprite.html)にアクセスしてください。  
+
+TinySpriteは[こちら](http://msx.jannone.org/tinysprite/tinysprite.html)。  
 
 <br>
 
 ## スプライトパターンデータ
 
 <br>
+
+📁[adventurer](adventurer)  
+
+<img src="adventurer/adventurer_slot0.png" width=20% height=20%><img src="adventurer/adventurer_slot1.png" width=20% height=20%><img src="adventurer/adventurer_slot2.png" width=20% height=20%><img src="adventurer/adventurer_slot3.png" width=20% height=20%><img src="adventurer/adventurer_slot4.png" width=20% height=20%>  
+
+<br>
+
 📁[bat](bat)  
-<img src="bat/bat_slot0.png" width=100% height=100%><img src="bat/bat_slot1.png" width=100% height=100%>  
+
+<img src="bat/bat_slot0.png" width=20% height=20%><img src="bat/bat_slot1.png" width=20% height=20%>  
+
 <br>
-📁[font002](font002)  
-<img src="font002/font002.png" width=200% height=200%>  
+
+📁[human](human)  
+
+<img src="human/human_slot0.png" width=20% height=20%><img src="human/human_slot1.png" width=20% height=20%><img src="human/human_slot2.png" width=20% height=20%><img src="human/human_slot3.png" width=20% height=20%>  
+<img src="human/human_slot4.png" width=20% height=20%><img src="human/human_slot5.png" width=20% height=20%><img src="human/human_slot6.png" width=20% height=20%><img src="human/human_slot7.png" width=20% height=20%>  
+
 <br>
-📁[font003](font003)  
-<img src="font003/font003.png" width=200% height=200%>  
+
+📁[pig](pig)  
+
+<img src="pig/pig_slot0.png" width=20% height=20%><img src="pig/pig_slot1.png" width=20% height=20%><img src="pig/pig_slot2.png" width=20% height=20%><img src="pig/pig_slot3.png" width=20% height=20%><img src="pig/pig_slot4.png" width=20% height=20%>  
+
 <br>
-📁[font004](font004)  
-<img src="font004/font004.png" width=200% height=200%>  
+
+📁[skeleton](skeleton)  
+
+<img src="skeleton/skeleton_slot0.png" width=20% height=20%><img src="skeleton/skeleton_slot1.png" width=20% height=20%><img src="skeleton/skeleton_slot2.png" width=20% height=20%><img src="skeleton/skeleton_slot3.png" width=20% height=20%>  
+
+<br>
+
+📁[wolf](wolf)  
+
+<img src="wolf/wolf_slot0.png" width=20% height=20%><img src="wolf/wolf_slot1.png" width=20% height=20%><img src="wolf/wolf_slot2.png" width=20% height=20%><img src="wolf/wolf_slot3.png" width=20% height=20%><img src="wolf/wolf_slot4.png" width=20% height=20%>  
 
 <br>
 
