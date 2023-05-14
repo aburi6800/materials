@@ -14,7 +14,7 @@ MSX1用スプライトパターンデータです。
 - BASICソース (`.bas`)  
     [TnySprite](http://msx.jannone.org/tinysprite/tinysprite.html)でData形式で出力したものです。  
 
-TinySpriteは[こちら](http://msx.jannone.org/tinysprite/tinysprite.html)。  
+TinySpriteの詳細は[こちら](https://github.com/jannone/msx-tinysprite)を参照ください。  
 
 <br>
 
