@@ -22,38 +22,38 @@ TinySpriteの詳細は[こちら](https://github.com/jannone/msx-tinysprite)を�
 
 <br>
 
-📁[adventurer](adventurer)  
+📁[adventurer](adventurer) (2plain)  
 
 <img src="adventurer/adventurer_slot0.png" width=20% height=20%><img src="adventurer/adventurer_slot1.png" width=20% height=20%><img src="adventurer/adventurer_slot2.png" width=20% height=20%><img src="adventurer/adventurer_slot3.png" width=20% height=20%><img src="adventurer/adventurer_slot4.png" width=20% height=20%>  
 
 <br>
 
-📁[bat](bat)  
+📁[bat](bat) (1plain)  
 
 <img src="bat/bat_slot0.png" width=20% height=20%><img src="bat/bat_slot1.png" width=20% height=20%>  
 
 <br>
 
-📁[human](human)  
+📁[human](human) (2plain)  
 
 <img src="human/human_slot0.png" width=20% height=20%><img src="human/human_slot1.png" width=20% height=20%><img src="human/human_slot2.png" width=20% height=20%><img src="human/human_slot3.png" width=20% height=20%>  
 <img src="human/human_slot4.png" width=20% height=20%><img src="human/human_slot5.png" width=20% height=20%><img src="human/human_slot6.png" width=20% height=20%><img src="human/human_slot7.png" width=20% height=20%>  
 
 <br>
 
-📁[pig](pig)  
+📁[pig](pig) (2plain)  
 
 <img src="pig/pig_slot0.png" width=20% height=20%><img src="pig/pig_slot1.png" width=20% height=20%><img src="pig/pig_slot2.png" width=20% height=20%><img src="pig/pig_slot3.png" width=20% height=20%><img src="pig/pig_slot4.png" width=20% height=20%>  
 
 <br>
 
-📁[skeleton](skeleton)  
+📁[skeleton](skeleton) (1plain)  
 
 <img src="skeleton/skeleton_slot0.png" width=20% height=20%><img src="skeleton/skeleton_slot1.png" width=20% height=20%><img src="skeleton/skeleton_slot2.png" width=20% height=20%><img src="skeleton/skeleton_slot3.png" width=20% height=20%>  
 
 <br>
 
-📁[wolf](wolf)  
+📁[wolf](wolf) (2plain)  
 
 <img src="wolf/wolf_slot0.png" width=20% height=20%><img src="wolf/wolf_slot1.png" width=20% height=20%><img src="wolf/wolf_slot2.png" width=20% height=20%><img src="wolf/wolf_slot3.png" width=20% height=20%><img src="wolf/wolf_slot4.png" width=20% height=20%>  
 
