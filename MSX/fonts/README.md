@@ -31,8 +31,14 @@
 <br>
 📁[font004](font004)  
 <img src="font004/font004.png" width=200% height=200%>  
+<br>
+📁[font005](font005)  
+<img src="font005/font005.png" width=200% height=200%>  
 
 ## リリースノート
+
+- 2023/05/18
+    - font005公開
 
 - 2023/05/04
     - font004公開
