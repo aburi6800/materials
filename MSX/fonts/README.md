@@ -34,6 +34,9 @@
 <br>
 📁[font005](font005)  
 <img src="font005/font005.png" width=200% height=200%>  
+<br>
+📁[font006](font006)  
+<img src="font006/font006.png" width=200% height=200%>  
 
 ## リリースノート
 
