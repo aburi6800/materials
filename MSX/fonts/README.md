@@ -37,8 +37,17 @@
 <br>
 📁[font006](font006)  
 <img src="font006/font006.png" width=200% height=200%>  
+<br>
+📁[font007](font007)  
+<img src="font007/font007.png" width=200% height=200%>  
 
 ## リリースノート
+
+- 2023/05/26
+    - font007公開
+
+- 2023/05/18
+    - font006公開
 
 - 2023/05/18
     - font005公開
